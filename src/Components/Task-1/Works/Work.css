@@ -1,0 +1,18 @@
+.work .card{
+   
+    box-shadow: 0 0 3rem dimgray;
+    height:100%;
+   
+  }
+  
+  .work .card-header{
+      border: 0;
+      background-color: transparent;
+  }
+  .work .card-body{
+    margin-top:'5px'
+  }
+  .work .work-img{
+      height: 100%;
+      width: 100%;
+  }
